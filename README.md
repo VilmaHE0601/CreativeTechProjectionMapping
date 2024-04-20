@@ -1,4 +1,4 @@
-### Projection Mapping: Cyber Ocean
+# Projection Mapping: Cyber Ocean
 Cyber Ocean is an innovative visual arts project that creates a unique digital ocean environment through the use of TouchDesigner, a visual compositing tool. The project allows users to import their own videos into a dynamically generated digital world, making the experience unique to each individual.
 
 Source Material: https://youtu.be/p3FaxAuIR_4
@@ -6,11 +6,11 @@ Source Material: https://youtu.be/p3FaxAuIR_4
 ## Concept and Technology
 Users can import one or more videos with a resolution less than or equal to 1280x1280 at will, and utilize the projector to project them in the 3D space, thus creating and immersing themselves in their own personal Cyber Ocean.
 
-# Input Signal
+### Input Signal
 The video will be used as the Input signal for this project, and incoming electrical signals or data in the system or device will be used to trigger and activate the project.
 <img width="1920" alt="Screenshot 2024-04-19 at 19 12 16" src="https://github.com/VilmaHE0601/CreativeTechProjectionMapping/assets/146425185/838285eb-284b-450c-84f6-f15b9827c72c">
 
-# Data Processing
+### Data Processing
 Synthesis: Using the extracted data, a generative system within TouchDesigner uses various operators (TOPs, CHOPs, SOPs) to create visual elements. These elements might mimic oceanic attributes such as waves, ripples, and reflections, which change dynamically based on the video input.
 Real-time Feedback: The system often includes real-time feedback loops where the output visuals are fed back into the system as inputs to create complex, evolving patterns.
 <img width="1920" alt="Screenshot 2024-04-19 at 19 15 55" src="https://github.com/VilmaHE0601/CreativeTechProjectionMapping/assets/146425185/0a205dbc-8a53-426b-86df-79f282cca860">
